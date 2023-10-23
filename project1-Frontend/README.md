@@ -38,7 +38,7 @@ I created and styled the single Recipe view Page and styling.
 - Node v14 and above
 
 ## Competencies
-### JF XX.XX
+### JF 4.3
 - List the full text of the job function first
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
