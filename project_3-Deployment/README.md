@@ -8,6 +8,7 @@ Jebin Call is a full-stack application that provides call center services for sm
 
 ### Home Page
 ![Home Page](Jebin-dp.png)
+### Linode Deployment
 ![Backend Page](deployment.png)    
 
 **What are the users?**  
