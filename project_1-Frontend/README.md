@@ -44,7 +44,7 @@ _I created and styled the single Recipe view Page._
 ## Competencies
 ### JF 4.3
 ### JOB FUNCTION 4.3: Manage and deploy applications and programs, conduct testing, and adhere to industry security standards
-I created a single recipe view page that displays the recipe image, title, and ingredients. To manage and deploy the appplication I Git and GitHub. The testing was done on the UI. This resulted in a user friendly single page UI. 
+I created a single recipe view page that displays the recipe image, title, and ingredients. To manage and deploy the appplication I used Git and GitHub. The testing was done on the UI. This resulted in a user friendly single page UI. 
 
 ### JF 4.5
 ### JOB FUNCTION 5.5 Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
