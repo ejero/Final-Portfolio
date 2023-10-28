@@ -17,6 +17,9 @@ The users of Jebin Call are primarily small business owners and their employees 
 **What job does it form for them?**  
 Jebin Call forms the crucial job of managing and handling customer calls for small businesses. It enables users to focus on their core business operations while ensuring that their customer communication remains efficient, secure, and well-organized. By automating and simplifying the process of call management, Jebin Call allows users to deliver exceptional customer service without the need for extensive manual intervention.
 
+**What inspired you to make it?**  
+I have always seen small companies that could use a call center to help manage their business. I thought it would be nice to try and implement a call center for small businesses. I wanted to create a user-friendly solution for small businesses that would allow them to manage their customer calls efficiently.  
+
 **What features are the most important?**  
 The most important features is in my backend part where a user can login and register.  
 
