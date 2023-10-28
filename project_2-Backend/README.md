@@ -3,6 +3,8 @@
 ### Overview
 My Diary is a robust backend application built using JavaScript, Express, Sequelize, SQLite3, dotenv, and jsonwebtoken. This application is designed to provide a seamless diary management experience for users, enabling them to register an account, log in securely, create, view, edit, and delete posts, as well as update their user information. With an intuitive and efficient design, My Diary empowers users to organize their thoughts and experiences, facilitating a personalized and secure diary-keeping journey. Leveraging the power of Sequelize, the application ensures efficient data management and seamless user interaction, making it an essential tool for individuals seeking a reliable and secure platform to manage their personal content.
 
+### Routes
+![Routes](Routes.png)
 ### Log in 
 ![Login Page](Backend.png)  
 ### Diary Page
