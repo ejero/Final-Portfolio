@@ -1,4 +1,5 @@
 ## Project #1
+[Link to the repo](https://github.com/The-MV-Foodies/foodies)
 ### Overview
 The Foodies app is a comprehensive platform designed to simplify the process of discovering, organizing, and preparing recipes. By fetching recipes from the Tasty API and displaying them alongside captivating images, Foodies aims to inspire users to explore new culinary experiences. With a user-friendly interface, the app allows users to effortlessly add ingredients to a shopping list, streamlining the meal planning and grocery shopping process. 
 
@@ -28,8 +29,8 @@ Providing a well-designed single recipe page view that showcases a picture of th
 ## Personal Contribution   
 _I created and styled the single Recipe view Page._  
 **S** - The application needed to have the ability to view one single recipe at a time. I created a single recipe view page that displays the recipe image, title, and ingredients. Also a button was needed to allow a user to add the ingredients to a shopping list.   
-**T** - Use React and Bootstrap to allow a user to view a single page. Create a container that would hold the recipe image, title, and ingredients. Also create a button that would allow a user to add the ingredients to a shopping list.  
-**A** - I used React and React-Bootstrap to create a responsive layout for the single recipe view page. I used the Tasty API to fetch the recipe data and display it on the page. I used React-Bootstrap to create a button that allows the user to add the ingredients to a shopping list. Use React useState to save state of button click.   
+**T** - Collarbrate via Zoom meetings use Git and GitHub to collaborate. Use React and Bootstrap to allow a user to view a single page. Create a container that would hold the recipe image, title, and ingredients. Also create a button that would allow a user to add the ingredients to a shopping list.  We used JavaScript and React becasue that was the library that everyone was most comfortable with. We used Bootstrap becasue it is a great library for creating responsive layouts.
+**A** - I used React and React-Bootstrap to create a responsive layout for the single recipe view page. I used the Tasty API to fetch the recipe data and display it on the page. I used React-Bootstrap to create a button that allows the user to add the ingredients to a shopping list. Use React useState to save state of button click. During my creating of the single page view, part of the issue is that I could not get the buttons lined up the way I wanted. I was able to fix this by using flexbox. 
 **R** - The single recipe view page allows a user to view one recipe at a time. The user can view the recipe image, title, and ingredients. The user can also add the ingredients to a shopping list. Also but pulling any changes I we were able to have less merge conflicts.  
 
 
@@ -40,6 +41,10 @@ _I created and styled the single Recipe view Page._
 - Include dependencies and versions
 - React-Bootstrap V5
 - Node v14 and above
+- Git and GitHub
+
+## Design and Architecture
+Designed using, JavaScript, React. The application uses a component-based Structure, which allows for the creation of reusable components. The application uses React-Bootstrap to create a responsive layout. The application uses the Tasty API to fetch the recipe data. The application uses React useState to save state of button click.
 
 ## Competencies
 ### JF 4.3
