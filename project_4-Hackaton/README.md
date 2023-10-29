@@ -31,6 +31,7 @@ The most crucial feature of the application is the addition of a contact form th
 ## Personal Contribution
 
 _I created and styled the whole web application._
+
 **S** -The application needed to have the ability to allow customers to view a home welcome page, send a message via a contact form and send a chat message in the chat pop up box. A User will also need to be able to see the details of the specialties of each stylists. Use a PocketBase for a open source backend.
 
 **T** - This was a project I made myself so I needed to design all aspects. Since this is a HackAThon I had to learn a new Framework (Next.js), use JavaScript and deploy the application using Vercel. Keep track of the application with Git and GitHub. Since this is a HackAThon tradeoff will be not being able to create my own database having full control. So I had to use PocketBase.
