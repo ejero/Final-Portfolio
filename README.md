@@ -5,7 +5,7 @@ This repository is a collection of some of my key learnings during my 2022 - 202
 ## Overview of Apprenticeship
 - **Host Company**: Cisco
 - **Duration**: 15 Months 09/2022 - 12/2023
-- **Link to Portfolio Website**: https://rosita.tech/index.html
+- **Link to Portfolio Website**: https://github.com/ejero/Final-Portfolio
 
 ## Portfolio Introduction
 **Who am I?**
