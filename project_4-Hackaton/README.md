@@ -55,18 +55,14 @@ Designed using JavaScript, Next.js and used PocketBase and Talk.js. Using the Ne
 
 ## Competencies
 
-### JF XX.XX
+### JF 2.7
 
-- List the full text of the job function first
-- Describe a situation where you demonstrated this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competency to this project
+### JOB FUNCTION Effectively manages state for complex User Interfaces
 
-### JF XX.XX
+In managing state, I organized the UI into manageable components. In my creation of the contact form the state of each fields was saved by using useState.
 
-- List the full text of the job function first
-- Describe a situation where you demonstrated this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competency to this project
+### JF 2.3
+
+### JOB FUNCTION Can develop effective user interfaces
+
+On the welcome page, I ensured a clear layout, making the contact form easily accessible with a prominent button, enhancing user engagement and streamlining the desired action. Furthermore, on the page featuring a carousel of different stylist, I focused on visual appeal and interactivity.
